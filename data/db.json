@@ -1,0 +1,36 @@
+{
+    "users":  [
+        {
+            "id": 1,
+            "name": "user1",
+            "email": "email1",
+            "password": "123",
+            "birthDay": ""
+        }
+    ],
+
+    "medicines": [
+        {
+            "userId": "1",
+            "medicineId": "1",
+            "medicineName": "medicine1",
+            "medicineType": "type1",
+            "medicineAmount": "100",
+            "medicineUnit": "unit1",
+            "daysOfMedicine":"6 days",
+            "medicineCurrentTime": "2020-01-01 12:00:00"
+        }
+    ],
+
+    "hours": [
+        {
+            "userId": "1",
+            "medicineId": "1",
+            "medicineName": "medicine1",
+            "medicineType": "type1",
+            "medicineAmount": "100",
+            "medicineUnit": "unit1",
+            "medicineTime": "2020-01-01 12:00:00"
+        }
+    ]
+}
